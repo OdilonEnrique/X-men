@@ -19,6 +19,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 <ul>
     <li>
-        <a src="odilonenrique.github.io/X-men/"> Deploy</a>
+        <a href="odilonenrique.github.io/X-men/">Deploy</a>
     </li>
 </ul>
