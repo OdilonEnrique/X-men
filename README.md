@@ -5,6 +5,7 @@
 <img src="./src/imagens/Image-project.jpg">
 
 <p> Projeto do evento "Semana do Zero ao Programador Contratado" da Dev Em Dobro.</p>
+
 ## 🛠 Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
